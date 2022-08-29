@@ -8,4 +8,4 @@ Emacs basic command lines
         Quitting C-x C-c
 
                 One important thing to note:
-C represents control (ctrl) on windows or command (cmd) on mac..
+C represents control (ctrl) on windows or command (cmd) on mac
